@@ -1,1 +1,1 @@
-# tcdd-bos-yer-telegram-sender
+# tcdd-bos-yer-telegram-message
